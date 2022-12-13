@@ -8,5 +8,8 @@ Project Files;
 Excluded Files;
 exclude.txt
 
+Project Milestone & Completions
+Set up SSH for updating Github via git push. This way I no longer need to use authentication tokens with HTTPS.
+
 Project Todo
 
